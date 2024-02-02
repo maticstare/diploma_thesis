@@ -8,9 +8,8 @@
 !graphs/*.png
 !code/
 !code/*
-!presentation
-!presentation/*
 !*.pdf
 !*.tex
 !*.cls
 !*.bib
+!*.pptx
